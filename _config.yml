@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -71,14 +71,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I don't want to sell anything, by anything or process anything as a career. I don't want to sell anything bought or processed, or buy anything sold or processed or process anything sold, bought or processed, or repair anything sold bought or processed. You know, as a career -- I don't want to do that"
+sidebar-about-description: "'I don't want to sell anything, buy anything or process anything as a career. I don't want to sell anything bought or processed, or buy anything sold or processed or process anything sold, bought or processed, or repair anything sold bought or processed. You know, as a career -- I don't want to do that' - Lloyd Dobler"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -106,31 +106,31 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+    #title: "乱序",
+        #  href: "http://mida.re/"
     },{
-        title: "Sherry Wu",
-        href: "https://xuechundesign.github.io"
+      #title: "Sherry Wu",
+        #  href: "https://xuechundesign.github.io"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+      #title: "Luke 的自留地",
+        #  href: "http://hmqk1995.github.io"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+      #title: "Ebn's Blog",
+        #  href: "http://ebnbin.com/"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+      #title: "SmdCn's Blog",
+        #  href: "http://blog.smdcn.net"
     },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
+      #title: "JiyinYiyong",
+        #  href: "http://tiye.me/"
     },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
+      #title: "David's Game",
+        #  href: "https://www.ruoyaowu.com/"
     },{
-        title: "DHong Say",
-        href: "http://dhong.co"
+      #title: "DHong Say",
+        #  href: "http://dhong.co"
     },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+      #    title: "尹峰以为",
+        #        href: "http://ingf.github.io/"
     }
 ]
