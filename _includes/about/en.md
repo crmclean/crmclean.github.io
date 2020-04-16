@@ -1,31 +1,24 @@
 > Your time is limited, so don’t waste it living someone else’s life. 
 
-Hi, I am _@huxpro_ (Huang, Xuan), a [Facebook](https://www.facebook.com/) software engineer and a professed digital designer. My interests range from programming languages in general (type system, type-based formal verification, compiler construction, runtime system) to indurstial software engineering (web/mobile app development, user interface and UX, developer infra and DX). 
+Hi, I am Craig McLean. I am a bioinformatician working to stop harmful algal blooms. I am a graduate student in the [Environmental Environmental Science Group](https://www2.whoi.edu/site/molecular-environmental-science/) through the [MIT-WHOI joint program](https://mit.whoi.edu/). Most of my work centers around thinking about metabolism, the range of biochemical reactions within a cell. I'm broadly interested in software development, ecology, music, and art. 
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at a unicorn startup [Beijing Weiying (WePiao)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+Prior to grad school, I studied chemistry and math at the University of Arkansas. I did lots of internships there, from developing tobacco exposure biomarkers and the [CDC](https://www.cdc.gov/tobacco/basic_information/secondhand_smoke/index.htm) to motivating bacterial cultures to produce ample amounts of natural products at [Woods Hole Oceanographic Institution](https://www.whoi.edu/). 
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology), with a focus on programming languages theory and construction.
+##### Goals For This Page 
 
+One thing I lack right now is the ability to write really well. I mean really really well. I think clear and concise communication is an invaluable skill independent of trade. So, hopefully this blog will give me the opportunity to practice, and maybe if I'm lucky, get some feedback. 
 
-##### My Programming Languages Spectrum
+Hopefully some of the content within this page can be useful to you, the reader. I'll try to make some posts describing anything papers and ideas from my field and some more personal ones talking about a book or an album I really connected with. More to come! 
 
-I generally prefer languages that are close to ML ("Meta Language"), i.e. _mostly functional programming_. This should explain most of my picks e.g. JavaScript within dynamically-typed's, Scala within JVM's, Rust within unmanaged's.
+##### Projects and Memorable Experiences 
 
-> __Left-right__ is how much I prefer it.  __Top-down__ is how much I know it. __Versions__ are lower bounds.
+I firmly believe that "the whole is greater than the sum of its parts" - Aristotle. In this section, I'll highlight some projects and experiences I have shared with others in grad school. 
 
-|     | 💔️           | ❤️ ️                   | ❤️❤️ ️             | ❤️❤️❤️ ️               |
-| --- | ------------- | ---------------------- | ------------------ | ---------------------- |
-| 😅  | `PHP` `BASIC` | `ObjC` `Prolog` `Hack` | `Kotlin` `Dart`    | `Swift` `Agda` `Idris` |
-| 🧐  |               | `Asm` `C++`  `Lisp*`   | `C++11` `C#` `AS3` | `Scala` `Rust`         |
-| 😏  | `Shell`       | `C` `Java` `Python`    | `Typed JS*` `Wasm` | `Haskell` `Coq` `ML*`  |
-| 🤓  |               | `JavaScript`           | `ECMAScript6`      | `λ` `Λ` `Π` `Σ`        |
+[AutoTuner:](https://pubs.acs.org/doi/10.1021/acs.analchem.9b04804) High Fidelity and Robust Parameter Selection for Metabolomics Data Processing
 
-> __`ML*`__: `OCaml` `ReasonML` `Standard ML`  
-> __`Lisp*`__: `Clojure` `Scheme` `Racket`  
-> __`Typed JS*`__：`Flow` `TypeScript`
+[Micronauts:](https://www.media.mit.edu/projects/micronauts/overview/) Bringing to life a hidden microbial world
 
-
-##### Talks
+[Unofficial:](https://www.unofficialcommittee.com/) An open community for activists, designers and artists who wish to make positive social impact
 
 - [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
 - Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
