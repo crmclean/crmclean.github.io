@@ -80,7 +80,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "'I don't want to sell anything, buy anything or process anything as a career. I don't want to sell anything bought or processed, or buy anything sold or processed or process anything sold, bought or processed, or repair anything sold bought or processed. You know, as a career -- I don't want to do that' - Lloyd Dobler"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/craig_sidebar.png# use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
